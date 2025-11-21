@@ -1,0 +1,5 @@
+{
+  "name": "熊猫贪吃蛇",
+  "description": "一款经典贪吃蛇游戏的可爱变体，引导饥饿的熊猫吃竹笋。具有响应式控制和可爱的视觉风格。",
+  "requestFramePermissions": []
+}
